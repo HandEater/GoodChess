@@ -1,1 +1,1 @@
-`Delete package before using it. `
+Delete `package` **before** using it. 
